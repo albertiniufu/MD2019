@@ -1,1 +1,4 @@
+require(tidyverse)
+
+
 tipos <- list(col_factor(), col_character(), col_factor(), col_factor(), col_character(), col_character(), col_factor(),col_factor(),col_factor(),col_skip(),col_date("%d/%m/%Y"))
